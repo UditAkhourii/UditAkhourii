@@ -5,16 +5,11 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akhouriudit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uditakhourii)
 
-Research-driven builder working on agent systems, memory architectures, and coordination bottlenecks in AI-native engineering.
+Hey, I am a computer science student at the Indian Institute of Technology. I love building tech that solves problems for me. In fact, most of the things I ship directly comes from problems I face in my physical or digital life. 
 
-Currently building **Brane** — a shared persistent memory layer for humans and developer agents that captures decisions, context, and operational knowledge so systems remain coherent as velocity scales.
+I am currently building **Brane** — a compliant memory layer for health data. The goal is to let anyone ship healthcare apps at lightspeed without thinking or worrying about compliances. 
 
-Core focus:
-- Agent coordination and failure modes
-- Long-term memory for AI workflows
-- Knowledge persistence and retrieval
-- Developer tooling as cognitive infrastructure
 
 I publish technical thinking, experiments, and system designs on Substack and X.
 
-👉 For a full overview of what I build and ship, visit **https://uditakhouri.com**
+👉 For a full overview of what I build and ship, visit **https://uditakhouri.com** and to read my writings, visit **https://blog.uditakhouri.com**
