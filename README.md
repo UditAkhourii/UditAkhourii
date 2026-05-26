@@ -12,4 +12,4 @@ I am currently building **Brane** — a compliant memory layer for health data. 
 
 I publish technical thinking, experiments, and system designs on Substack and X.
 
-👉 For a full overview of what I build and ship, visit **https://uditakhouri.com** and to read my writings, visit **https://blog.uditakhouri.com**
+👉 For a full overview of what I build and ship, visit **https://uditakhouri.com** and to read my writings, visit **https://uditraj.substack.com**
