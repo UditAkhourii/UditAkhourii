@@ -7,7 +7,7 @@
 
 Hey, I am a computer science student at the Indian Institute of Technology. I love building tech that solves problems for me. In fact, most of the things I ship directly comes from problems I face in my physical or digital life. 
 
-I am currently building **Brane** — a compliant memory layer for health data. The goal is to build a future where ai-assisted healthcare, life sciences & drug discovery can be reliable & safe to scale. More at Branelabs.org (https://branelabs.org)
+I am currently building **Brane** — a compliant memory layer for health data. The goal is to build a future where ai-assisted healthcare, life sciences & drug discovery can be reliable & safe to scale. More at https://branelabs.org.
 
 
 I publish technical thinking, experiments, and system designs on Substack and X.
