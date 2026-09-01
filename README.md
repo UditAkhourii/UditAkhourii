@@ -9,7 +9,7 @@ Hey, I am a computer science student at the Indian Institute of Technology. I lo
 
 The thesis is that, day-by-day,  AI reasoning is getting more deterministic and thus the value of outlier signals is being completely ignored. I research to close that gap. 
 
-Think about this - If you gave Nikola Tesla the best AI models of today, he would be able to maybe optimize direct currents to its most efficient versions but not could never have invented alternating current. This is the bottleneck of research capacities of current AI systems. I try to solve that by taking inspiration from what we already have - brain & biology. 
+Think about this - If you gave Nikola Tesla the best AI models of today, he would be able to maybe optimize direct currents to its most efficient versions but could never have invented alternating current. This is the bottleneck of research capacities of current AI systems. I try to solve that by taking inspiration from what we already have - brain & biology. 
 
 I publish technical thinking, experiments, and system designs on Substack and X.
 
